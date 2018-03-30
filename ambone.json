@@ -1,0 +1,9 @@
+{
+  "views": [
+    {
+      "location": "/Areas/ExtSPA/Views/Home/ambone.cshtml",
+      "content":
+        "<div> one</div>"
+    }
+  ]
+}
