@@ -3,7 +3,7 @@
 
     {
       "location": "/Areas/ExtSPA/Views/Home/helloblade.cshtml",
-      "content": "New<base href=\"/extspa/HelloBlade\">  <app-root></app-root><script src=\"runtime-es2015.edb2fcf2778e7bf1d426.js\" type=\"module\"></script><script src=\"runtime-es5.edb2fcf2778e7bf1d426.js\" nomodule defer></script><script src=\"polyfills-es5.ef4b1e1fc703b3ff76e3.js\" nomodule defer></script><script src=\"polyfills-es2015.2987770fde9daa1d8a2e.js\" type=\"module\"></script><script src=\"main-es2015.4598827c84f4d05bdfaa.js\" type=\"module\"></script><script src=\"main-es5.4598827c84f4d05bdfaa.js\" nomodule defer></script>"
+      "content": "New2 <base href=\"/extspa/HelloBlade\">  <app-root></app-root><script src=\"runtime-es2015.edb2fcf2778e7bf1d426.js\" type=\"module\"></script><script src=\"runtime-es5.edb2fcf2778e7bf1d426.js\" nomodule defer></script><script src=\"polyfills-es5.ef4b1e1fc703b3ff76e3.js\" nomodule defer></script><script src=\"polyfills-es2015.2987770fde9daa1d8a2e.js\" type=\"module\"></script><script src=\"main-es2015.4598827c84f4d05bdfaa.js\" type=\"module\"></script><script src=\"main-es5.4598827c84f4d05bdfaa.js\" nomodule defer></script>"
     }
   ]
 }
