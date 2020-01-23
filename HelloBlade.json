@@ -3,7 +3,7 @@
 
     {
       "location": "/Areas/ExtSPA/Views/Home/helloblade.cshtml",
-      "content": "<base href=\"/extspa/HelloBlade\">  <app-root></app-root><script src=\"http://explore.lab.norton.com/HelloBlade/runtime.a8ef3a8272419c2e2c66.js\" type=\"text/javascript\"></script><script src=\"http://explore.lab.norton.com/HelloBlade/polyfills-es5.d30832bf70493aed5d6c.js\" type=\"text/javascript\"></script><script src=\"http://explore.lab.norton.com/HelloBlade/polyfills.b948c5521048b3f55fad.js\" type=\"text/javascript\"></script><script src=\"http://explore.lab.norton.com/HelloBlade/main.6aed2f7114ea099c9109.js\" type=\"text/javascript\"></script>"
+      "content": "<base href=\"/extspa/HelloBlade\">  <app-root></app-root><script src=\"https://apiportal.norton.com/helloblade/runtime.a8ef3a8272419c2e2c66.js\" type=\"text/javascript\"></script><script src=\"https://apiportal.norton.com/helloblade/polyfills-es5.d30832bf70493aed5d6c.js\" type=\"text/javascript\"></script><script src=\"https://apiportal.norton.com/helloblade/polyfills.b948c5521048b3f55fad.js\" type=\"text/javascript\"></script><script src=\"https://apiportal.norton.com/helloblade/main.6aed2f7114ea099c9109.js\" type=\"text/javascript\"></script>"
     }
   ]
 }
